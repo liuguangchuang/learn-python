@@ -1,3 +1,16 @@
+
+*.beam
+*.pyc
+*.swp
+.DS_Store
+
+tmp
+bin/configlet
+bin/configlet.exe
+.idea/
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
