@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
-# @Time : 2019/5/10 21:25
-# @Author : laugc
-# @Email : hahalgc@gmail.com
-# @File : py7_dict_set.py
+# Time: 2019/5/10 21:25
+# Author: laugc
+# Email: hahalgc@gmail.com
+# File: py7_dict_set.py
 
 """
 dict 和 set

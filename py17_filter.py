@@ -1,8 +1,9 @@
 # -*- coding: utf-8 -*-
-# @Time : 2019/5/11 16:19
-# @Author : laugc
-# @Email : hahalgc@gmail.com
-# @File : py17_filter.py
+# Time: 2019/5/11 16:19
+# Author: laugc
+# Email: hahalgc@gmail.com
+# File: py17_filter.py
+
 """
 filter() 函数
 """
@@ -22,7 +23,7 @@ def not_empty(s):
 print(list(filter(not_empty, ['A', '', 'B', None, 'C', '  '])))
 
 
-# 素数
+# 求素数
 # 从 3 开始的奇数，无限序列
 def _odd_iter():
     n = 1

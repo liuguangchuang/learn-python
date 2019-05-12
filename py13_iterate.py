@@ -1,12 +1,13 @@
 # -*- coding: utf-8 -*-
-# @Time : 2019/5/11 15:09
-# @Author : laugc
-# @Email : hahalgc@gmail.com
-# @File : py13_iterate.py
+# Time: 2019/5/11 15:09
+# Author: laugc
+# Email: hahalgc@gmail.com
+# File: py13_iterate.py
 
 """
 迭代
 """
+
 # dict
 d = {'a': 1, 'b': 2, 'c': 3}
 for key in d:

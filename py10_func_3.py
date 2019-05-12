@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
-# @Time : 2019/5/10 22:08
-# @Author : laugc
-# @Email : hahalgc@gmail.com
-# @File : py10_func_3.py
+# Time: 2019/5/10 22:08
+# Author: laugc
+# Email: hahalgc@gmail.com
+# File: py10_func_3.py
 
 """
 函数参数

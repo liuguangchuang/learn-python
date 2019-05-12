@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
-# @Time : 2019/5/10 21:50
-# @Author : laugc
-# @Email : hahalgc@gmail.com
-# @File : py8_func_1.py
+# Time: 2019/5/10 21:50
+# Author: laugc
+# Email: hahalgc@gmail.com
+# File: py8_func_1.py
 
 """
 函数

@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
-# @Time : 2019/5/9 20:48
-# @Author : laugc
-# @Email : hahalgc@gmail.com
-# @File : py3_format.py
+# Time: 2019/5/9 20:48
+# Author: laugc
+# Email: hahalgc@gmail.com
+# File: py3_format.py
 
 # ord() 函数获取字符的整数表示，chr() 函数把编码转换为对应的字符
 print(ord('A'))

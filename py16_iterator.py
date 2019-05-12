@@ -1,8 +1,9 @@
 # -*- coding: utf-8 -*-
-# @Time : 2019/5/11 16:06
-# @Author : laugc
-# @Email : hahalgc@gmail.com
-# @File : py16_iterator.py
+# Time: 2019/5/11 16:06
+# Author: laugc
+# Email: hahalgc@gmail.com
+# File: py16_iterator.py
+
 """
 迭代器
 凡是可作用于 for 循环的对象都是 Iterable 类型

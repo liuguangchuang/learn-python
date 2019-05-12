@@ -1,12 +1,13 @@
 # -*- coding: utf-8 -*-
-# @Time : 2019/5/11 11:25
-# @Author : laugc
-# @Email : hahalgc@gmail.com
-# @File : py12_slice.py
+# Time: 2019/5/11 11:25
+# Author: laugc
+# Email: hahalgc@gmail.com
+# File: py12_slice.py
 
 """
 切片
 """
+
 # 定义 list
 l = ['Michael', 'Sarah', 'Tracy', 'Bob', 'Jack']
 

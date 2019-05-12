@@ -1,12 +1,13 @@
 # -*- coding: utf-8 -*-
-# @Time : 2019/5/9 21:04
-# @Author : laugc
-# @Email : hahalgc@gmail.com
-# @File : py4_list_tuple.py
+# Time: 2019/5/9 21:04
+# Author: laugc
+# Email: hahalgc@gmail.com
+# File: py4_list_tuple.py
 
 """
 list 与 tuple
 """
+
 # 定义 list，索引从 0 开始，list 是一种有序的集合，可修改
 list1 = ['Cap', 'Thor', 'Bruce']
 print(len(list1))

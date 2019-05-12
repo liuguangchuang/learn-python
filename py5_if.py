@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
-# @Time : 2019/5/9 22:34
-# @Author : laugc
-# @Email : hahalgc@gmail.com
-# @File : py5_if.py
+# Time: 2019/5/9 22:34
+# Author: laugc
+# Email: hahalgc@gmail.com
+# File: py5_if.py
 
 """
 if 条件判断

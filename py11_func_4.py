@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
-# @Time : 2019/5/10 23:34
-# @Author : laugc
-# @Email : hahalgc@gmail.com
-# @File : py11_func_4.py
+# Time: 2019/5/10 23:34
+# Author: laugc
+# Email: hahalgc@gmail.com
+# File: py11_func_4.py
 
 """
 递归函数

@@ -1,11 +1,13 @@
 # -*- coding: utf-8 -*-
-# @Time : 2019/5/11 15:20
-# @Author : laugc
-# @Email : hahalgc@gmail.com
-# @File : py14_list_generator.py
+# Time: 2019/5/11 15:20
+# Author: laugc
+# Email: hahalgc@gmail.com
+# File: py14_list_generator.py
+
 """
 列表生成式
 """
+
 import os
 
 l = list(range(1, 11))

@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
-# @Time : 2019/5/9 23:02
-# @Author : laugc
-# @Email : hahalgc@gmail.com
-# @File : py6_for_while.py
+# Time: 2019/5/9 23:02
+# Author: laugc
+# Email: hahalgc@gmail.com
+# File: py6_for_while.py
 
 
 names = ['Michael', 'Bob', 'Tracy']

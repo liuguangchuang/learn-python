@@ -1,9 +1,8 @@
 # -*- coding: utf-8 -*-
-# @Time : 2019/5/10 21:53
-# @Author : laugc
-# @Email : hahalgc@gmail.com
-# @File : py9_func_2.py
-
+# Time: 2019/5/10 21:53
+# Author: laugc
+# Email: hahalgc@gmail.com
+# File: py9_func_2.py
 
 """
 自定义函数
