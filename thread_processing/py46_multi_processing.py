@@ -24,7 +24,7 @@ def long_time_task(name):
 
 
 if __name__ == '__main__':
-    print('parent process %s ' % os.getpid())
+    print('parent thread_processing %s ' % os.getpid())
     p = Pool(4)
     for i in range(5):
         p.apply_async(long_time_task, args=(i,))

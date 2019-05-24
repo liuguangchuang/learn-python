@@ -16,7 +16,7 @@ import random
 
 # 写数据进程
 def write(q):
-    print('process to write: %s' % os.getpid())
+    print('thread_processing to write: %s' % os.getpid())
     for value in ['A', 'B', 'C']:
         print('put %s queue...' % value)
         q.put(value)
@@ -25,7 +25,7 @@ def write(q):
 
 # 读数据进程
 def read(q):
-    print('process to read: %s' % os.getpid())
+    print('thread_processing to read: %s' % os.getpid())
     while True:
         value = q.get(True)
         print('get %s from queue.' % value)
