@@ -5,6 +5,7 @@
 # File: py1_print.py
 
 """
+廖雪峰 python
 print 语句，input 输入
 """
 
