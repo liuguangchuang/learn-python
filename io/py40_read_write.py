@@ -29,7 +29,8 @@ with open('D:\python_code\learn-python\io.txt', 'r') as f1:
 # 图片、视频等等，用 rb 模式打开文件
 f2 = open('D:\python_code\learn-python\Facebook.png', 'rb')
 # 打印出十六进制表示的字节
-print(f2.read())
+# rstrip() 删除字符串末尾空行
+print(f2.read().rstrip())
 
 # 读取 utf-8 编码的文件，忽略错误
 f3 = open('D:\python_code\learn-python\io.txt', 'r', encoding='utf-8', errors='ignore')
