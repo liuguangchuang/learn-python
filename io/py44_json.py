@@ -14,6 +14,9 @@ d = dict(name='lau', age=12, score=85)
 # 转为 json
 print(json.dumps(d))
 
+# json.dump() 存储数据至 .json
+# json.load() 读取数据至内存
+
 # 反序列化
 json_str = '{"age":20,"score":55,"name":"lau"}'
 print(json.loads(json_str))

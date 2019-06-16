@@ -38,10 +38,12 @@ print(f3.read())
 
 # 写文件
 # w 覆盖文件全部内容，
-# a 以追加 append 模式写入，不换行
 f4 = open('D:\python_code\learn-python\io.txt', 'a')
 f4.write('Hello, world!')
 f4.close()
 
+# r+ 表示文件读写模式，如果不传模式参数，默认只读
+# a 以追加 append 模式写入，不换行
 with open('D:\python_code\learn-python\io.txt', 'a') as f5:
-    f5.write('Hello, world!')
+    # \n 表示换行
+    f5.write('Hello, world!\n')
