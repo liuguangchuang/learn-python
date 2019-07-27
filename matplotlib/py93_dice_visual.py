@@ -12,9 +12,10 @@ from py92_dice import Dice
 """
 
 dice = Dice()
+# 10 面骰子
 dice2 = Dice()
 results = []
-for roll_num in range(100):
+for roll_num in range(50000):
     result = dice.roll() + dice2.roll()
     results.append(result)
 
@@ -33,8 +34,8 @@ print(frequencies)
 hist = pygal.Bar()
 
 hist.title = 'result of rolling dice.'
-hist.x_labels = ['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12']
+hist.x_labels = ['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16']
 hist.x_title = 'result'
 hist.y_title = 'frequency of result'
-hist.add('D6 + D6', frequencies)
+hist.add('D6 + D10', frequencies)
 hist.render_to_file('dice_visual.svg')
